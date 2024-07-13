@@ -1,1 +1,1 @@
-# Codsoft_task3
+This repository contains the 3rd project that I have been working on during my internship at Codsoft- IRIS FLOWER CLASSIFICATION. The Iris flower dataset consists of three species: setosa, versicolor and virginica. These species can be distinguished based on their measurements like sepal length, sepal width, petal length and petal width. The objective of this project is to train a machine learning model that can learn from these measurements and accurately classify the Iris flowers into their respective species.
